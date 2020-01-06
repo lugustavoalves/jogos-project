@@ -1,5 +1,7 @@
 # jogos-project
 
+Tentativa de criar o jogo dentro de um timeline de 6 horas.
+
 BLACKJACK
 
 Como jogar:
